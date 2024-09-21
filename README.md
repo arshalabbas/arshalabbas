@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">👨‍💻 Full Stack Dev: Front-End 🚀 + Back-End 🔧 = Digital Magic ✨</p>
+<p align="left">👨‍💻 Front-End Developer</p>
 
 ###
 

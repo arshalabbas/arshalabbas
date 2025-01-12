@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">👨‍💻 Front-End Developer</p>
+<p align="left">👨‍💻 Front-End Developer 🔥</p>
 
 ###
 

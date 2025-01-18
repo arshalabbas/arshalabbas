@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">👨‍💻 Front-End Developer 🔥</p>
+```How do you comfort a JavaScript bug? You console it.```
 
 ###
 

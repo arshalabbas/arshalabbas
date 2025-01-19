@@ -6,6 +6,8 @@
 
 ```How do you comfort a JavaScript bug? You console it.```
 
+---
+
 ###
 
 <h5 align="left">Hit me up on these!</h5>
